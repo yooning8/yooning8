@@ -19,4 +19,4 @@ Class of: 22311952
 ## Links
 E-mail: owo_8@naver.com
 
-Instagram: @_yoon._.21
+Instagram: [@_yoon._.21](https://www.instagram.com/_yoon._.21/?hl=ko)
