@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**yooning8/yooning8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Info
+Name: 석지윤
+Age: 21
 
-Here are some ideas to get you started:
+## Career
+School: YeungNam University
+Major: Computer Science Engineering
+Grade: 2
+Class of: 22311952
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+E-mail: owo_8@naver.com
+Instagram: @_yoon._.21
