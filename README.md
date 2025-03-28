@@ -3,7 +3,7 @@
 ## Info
 Name: 석지윤
 
-Age: 21
+Age: 22
 
 
 ## Career
@@ -11,7 +11,7 @@ School: YeungNam University
 
 Major: Computer Science Engineering
 
-Grade: 2
+Grade: 3
 
 Class of: 22311952
 
