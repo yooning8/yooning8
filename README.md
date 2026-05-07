@@ -54,14 +54,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yooning8&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooning8&layout=compact&theme=tokyonight)
-
-<br>
-
 ### ✨ Have a nice day ✨
 
 </div>
